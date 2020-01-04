@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class MainScreen extends StatelessWidget {
   @override
@@ -9,12 +8,12 @@ class MainScreen extends StatelessWidget {
         appBar: AppBar(
           title: Text(
             'SCHOODLE',
-            style: GoogleFonts.poppins(
-              textStyle: Theme.of(context).textTheme.display1,
-              fontSize: 40,
-              fontWeight: FontWeight.w800,
-              fontStyle: FontStyle.normal,
-            ),
+            style: TextStyle(fontFamily: 'PoppinsEx', 
+            
+            fontSize: 40,
+            fontWeight: FontWeight.w800,
+            fontStyle: FontStyle.normal
+            )
           ),
         ),
       ),
