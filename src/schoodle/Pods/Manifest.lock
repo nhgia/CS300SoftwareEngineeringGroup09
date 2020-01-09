@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - SideMenu (6.4.6)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SideMenu (~> 6.0)
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SideMenu
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  SideMenu: 43910eb6dc994dd59771f8e82573d04a9e776361
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+
+PODFILE CHECKSUM: e2f4e4cb9891e67572bf0b2a8e647506d32b0e1c
+
+COCOAPODS: 1.8.4
